@@ -10,5 +10,5 @@ Went down that rabbit hole, then just modelled and 3D printed his published link
 
 
 ## Build
-3D-printed legs using Jansen's published linkage dimensions
+3D-printed legs using Jansen's published linkage dimensions  
 Driven by a single motor turning the central crank, moving all legs in sync
